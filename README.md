@@ -23,8 +23,6 @@
   <br>
   📚 I’m currently learning about Ethical Hacking
   <br>
-  💬 Ask me anything about from <a href="https://github.com/juancaa03/juancaa03/issues" title="Issues">Here</a>
-  <br>
   📫 How to reach me: <a href="mailto: juancamalonsoo@gmail.com">juancamalonsoo@gmail.com</a>
 </p>
 
